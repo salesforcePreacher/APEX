@@ -1,3 +1,6 @@
+
+/** - This page gives you an example of Apex **/
+
 <apex:page >
     
     <h1>
