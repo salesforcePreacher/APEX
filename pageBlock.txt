@@ -1,0 +1,17 @@
+<apex:page >
+    
+
+    <apex:pageBlock title="Block1" >
+    
+        
+        <apex:pageBlockSection title ="Section 1">
+        
+        {! 2*3}
+        
+        </apex:pageBlockSection>
+   
+     
+    </apex:pageBlock>
+    
+    
+</apex:page>

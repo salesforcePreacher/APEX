@@ -1,0 +1,29 @@
+<apex:page standardController="Contact">
+    
+    <apex:pageBlock title="Contact Details" >
+    
+            <apex:PageBlockSection>
+            
+                Name  : {! Contact.Name} <br/>
+                Email : {! Contact.Email}  <br/>
+                Phone : {! Contact.Phone}  <br/>
+                
+          </apex:PageBlockSection>
+    </apex:pageBlock>
+    
+    
+</apex:page>
+
+
+
+It will not display anything - so go to Contact
+get the ID and then pass it to preview page...
+
+
+https://na85.salesforce.com/0031U000002H9Em
+
+id=0031U000002H9Em
+
+https://c.na85.visual.force.com/apex/HelloWorldPage?id=0031U000002H9Em
+
+
